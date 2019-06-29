@@ -1,8 +1,5 @@
-Branch:Slider--javascript 幻灯片代码(含自动播放)
 
-CSS 日历样式
-
-JavaScript 弹窗
+Branch:popup--JavaScript 弹窗
 
 JavaScript 图片弹窗
 

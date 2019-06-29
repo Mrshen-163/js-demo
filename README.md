@@ -1,14 +1,4 @@
-Branch:Slider--javascript 幻灯片代码(含自动播放)
-
-CSS 日历样式
-
-JavaScript 弹窗
-
-JavaScript 图片弹窗
-
-JavaScript Lightbox
-
-javascript 搜索框自动提示
+Branch:autoprompt--javascript 搜索框自动提示
 
 JavaScript 表格数据搜索
 

@@ -1,6 +1,4 @@
-Branch:autoprompt--javascript 搜索框自动提示
-
-JavaScript 表格数据搜索
+Branch:autoprompt--javascript 1)搜索框自动提示 2)表格数据搜索
 
 JavaScript 实现列表按字母排序
 

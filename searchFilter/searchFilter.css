@@ -20,11 +20,11 @@ a {
     color: #000000;
 }
 
-#list {
+#list,#tableList{
     margin-top: 20px;
 }
 
-#myInput {
+#myInput,#tableInput {
     background: url('searchicon.png') no-repeat;
     padding-left: 50px;
     background-position: 10px;
